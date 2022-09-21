@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annastasyaivory&label=Profile%20views&color=0e75b6&style=flat" alt="annastasyaivory" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=annastasyaivory" alt="annastasyaivory" /></a> </p>
-
 - 🌱 I’m currently learning **Headless CMS (Content Management System)**
 
 - 📫 How to reach me **annastasya2601@gmail.com**
