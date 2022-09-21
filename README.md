@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annastasyaivory&label=Profile%20views&color=0e75b6&style=flat" alt="annastasyaivory" /> </p>
 
-- 🌱 I’m currently learning **Headless CMS (Content Management System)**
+- 🌱 I’m currently learning : **Headless CMS (Content Management System)**
 
-- 📫 How to reach me **annastasya2601@gmail.com**
+- 📫 How to reach me : **annastasya2601@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/annastasyaivory/](https://www.linkedin.com/in/annastasyaivory/)
+- 📄 Know about my experiences : on [https://www.linkedin.com/in/annastasyaivory/](https://www.linkedin.com/in/annastasyaivory/)
 
-- ⚡ Fun fact **Doing small business too**
+- ⚡ Fun fact : **i'm doing small business too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
