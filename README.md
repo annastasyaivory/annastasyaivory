@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annastasyaivory&label=Profile%20views&color=0e75b6&style=flat" alt="annastasyaivory" /> </p>
 
-- 🔭 I’m currently working on **IT Consulting Company as a Web Developer**
+- 🔭 I’m currently working on **IT Consulting Company as a System Analyst**
 
 - 🌱 I’m currently learning **Web & Mobile Apps Development**
 
-- 📫 How to reach me **annastasya2601@gmail.com**
+- 📫 How to reach me **annastasyaputriivory@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/annastasyaivory/](https://www.linkedin.com/in/annastasyaivory/)
 
